@@ -29,5 +29,6 @@ public class TiposDeDados02 {
 
         Float numeroFloat = 1.0f;
         Double numeroDouble = 1.0;
+
     }
 }

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ff9707-6349-4431-bbce-6f394120a10b" name="Changes" comment="Trabalhando com tipos de variaveis">
-      <change afterPath="$PROJECT_DIR$/src/VariaveisConstantes/TiposLogicos05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariaveisConstantes/TiposTextos04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TiposPrimitivos06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VariaveisConstantes/AlterandoValorVariavel06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VariaveisConstantes/TiposDeDados02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveisConstantes/TiposDeDados02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VariaveisConstantes/TiposPrimitivos03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VariaveisConstantes/TiposPrimitivos03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
