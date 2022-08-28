@@ -1,3 +1,5 @@
+package VariaveisConstantes;
+
 public class TiposPrimitivos06 {
     public static void main(String[] args) {
 
