@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ff9707-6349-4431-bbce-6f394120a10b" name="Changes" comment="Trabalhando com constantes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariaveisConstantes/Operadores07.java" afterDir="false" />
+    <list default="true" id="68ff9707-6349-4431-bbce-6f394120a10b" name="Changes" comment="Trabalhando variaveis !">
+      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/AulaIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EstruturasCondicionais/AulaSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/albertomoiseis/IdeaProjects/LogicaProgramacao"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661712949966</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Trabalhando com operadores">
+      <created>1661720187989</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661720187989</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Trabalhando variaveis !">
+      <created>1662050891820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662050891820</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +110,9 @@
     <MESSAGE value="Trabalhando com tipos de variaveis" />
     <MESSAGE value="Trabalhando com valores de variaveis" />
     <MESSAGE value="Trabalhando com constantes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com constantes" />
+    <MESSAGE value="Trabalhando com operadores" />
+    <MESSAGE value="Trabalhando variaveis" />
+    <MESSAGE value="Trabalhando variaveis !" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando variaveis !" />
   </component>
 </project>
