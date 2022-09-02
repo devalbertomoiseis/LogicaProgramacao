@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ff9707-6349-4431-bbce-6f394120a10b" name="Changes" comment="Trabalhando com String e Datas">
-      <change afterPath="$PROJECT_DIR$/src/Laços/AulaFor.java" afterDir="false" />
+    <list default="true" id="68ff9707-6349-4431-bbce-6f394120a10b" name="Changes" comment="Trabalhando com Laços de Repetição">
+      <change afterPath="$PROJECT_DIR$/src/Vetor/AulaVetor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662085699396</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Trabalhando com Laços de Repetição">
+      <created>1662086862766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662086862766</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +135,7 @@
     <MESSAGE value="Trabalhando variaveis !" />
     <MESSAGE value="Trabalhando Estruturas Condicionais" />
     <MESSAGE value="Trabalhando com String e Datas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com String e Datas" />
+    <MESSAGE value="Trabalhando com Laços de Repetição" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com Laços de Repetição" />
   </component>
 </project>
